@@ -1,10 +1,3 @@
-//
-//  SwiftValidate.swift
-//  
-//
-//  Created by Pengsheng Wang on 2023/3/11.
-//
-
 import Foundation
 
 public struct SwiftValidate {
